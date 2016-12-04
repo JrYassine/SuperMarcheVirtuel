@@ -14,3 +14,6 @@ Classe réalisés :
 - PanierButton
 - RenduMonaie
 - PayerButton
+
+# IDE utilisé : 
+- Eclipse
