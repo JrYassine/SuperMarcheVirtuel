@@ -11,7 +11,6 @@ Classe réalisés :
 - Caisse
 - CaisseButton
 - Panier
-- PanierButton
 - RenduMonaie
 - PayerButton
 
