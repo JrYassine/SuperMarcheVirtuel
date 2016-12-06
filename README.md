@@ -13,6 +13,7 @@ Classe réalisés :
 - Panier
 - RenduMonaie
 - PayerButton
+- RenduMonaie
 
 # IDE utilisé : 
 - Eclipse
