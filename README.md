@@ -1,5 +1,5 @@
 # SuperMarcheVirtuel
-
+Ce projet est le premier que j'ai réalisé lorsque j'ai commencé la programmation en java.
 Ce projet consiste à simuler un supermarché , un client peut dans le supermarché acheter différents produits dans différents rayons , une fois qu'il a fini de faire ses courses , il passe à la caisse et paye tout ses produits.
 
 # Ma contribution dans ce projet
